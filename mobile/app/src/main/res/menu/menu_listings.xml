@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/s2Search" android:title="@string/s2_search" android:icon="@android:drawable/ic_menu_search" app:showAsAction="collapseActionView|ifRoom" app:actionViewClass="androidx.appcompat.widget.SearchView" />
+    <item android:id="@+id/s2Filters" android:title="@string/s2_filters" app:showAsAction="ifRoom" />
+    <item android:id="@+id/s2Refresh" android:title="@string/s2_refresh" app:showAsAction="never" />
+<item android:id="@+id/s2Mine" android:title="@string/s2_mine" app:showAsAction="never" />
+</menu>

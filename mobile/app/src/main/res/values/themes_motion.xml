@@ -1,0 +1,10 @@
+<resources>
+<style name="Theme.FastColoc.Starting" parent="Theme.SplashScreen">
+<item name="windowSplashScreenBackground">@color/fc_violet</item>
+<item name="windowSplashScreenAnimatedIcon">@drawable/ic_fastcoloc_splash</item>
+<item name="postSplashScreenTheme">@style/Theme.FastColloc</item>
+<item name="android:windowLightStatusBar">false</item>
+<item name="android:statusBarColor">@color/fc_violet</item>
+<item name="android:navigationBarColor">@color/fc_violet</item>
+</style>
+</resources>

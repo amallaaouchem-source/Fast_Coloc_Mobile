@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- XML vector conversion of maquette/.../assets/fastcoloc-symbol.svg. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:width="48dp" android:height="48dp" android:viewportWidth="128" android:viewportHeight="128">
+    <group android:scaleX="0.6" android:scaleY="0.6" android:pivotX="64" android:pivotY="64">
+        <path android:pathData="M23,58L64,27L105,58" android:fillColor="@android:color/transparent" android:strokeColor="#FFF6EF" android:strokeWidth="11" android:strokeLineCap="round" android:strokeLineJoin="round" />
+        <path android:pathData="M40,64a9,9 0,1 0,18 0a9,9 0,1 0,-18 0" android:fillColor="#FFF6EF" />
+        <path android:pathData="M71,64a9,9 0,1 0,18 0a9,9 0,1 0,-18 0" android:fillColor="#FF7954" />
+        <path android:pathData="M31,94Q32,76 49,76q13,0 16,18" android:fillColor="@android:color/transparent" android:strokeColor="#FFF6EF" android:strokeWidth="11" android:strokeLineCap="round" />
+        <path android:pathData="M64,94q4,-18 17,-18q16,0 17,18" android:fillColor="@android:color/transparent" android:strokeColor="#FF7954" android:strokeWidth="11" android:strokeLineCap="round" />
+        <path android:pathData="M104,25l7,-9M114,38l10,-2" android:fillColor="@android:color/transparent" android:strokeColor="#FFB9D6" android:strokeWidth="5" android:strokeLineCap="round" />
+    </group>
+</vector>

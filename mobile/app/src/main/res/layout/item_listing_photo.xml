@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:padding="4dp">
+    <ImageView android:id="@+id/ivPhoto" android:layout_width="match_parent" android:layout_height="160dp" android:scaleType="centerCrop" android:contentDescription="@string/s2_photo" android:background="@color/fc_lilac"/>
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/tvCaption" android:text="@string/s2_tvCaption" android:textAppearance="@style/TextAppearance.FastColoc.Body" android:layout_marginTop="12dp"/>
+    <com.google.android.material.button.MaterialButton android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/btnDeletePhoto" android:text="@string/s2_btnDeletePhoto" android:minHeight="48dp" android:layout_marginTop="8dp" style="@style/Widget.FastColoc.Button"/>
+</LinearLayout>

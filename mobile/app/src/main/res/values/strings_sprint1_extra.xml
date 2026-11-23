@@ -1,0 +1,7 @@
+<resources>
+    <string name="s1_welcome">Bienvenue %1$s ! Ton profil FastColoc est partagé avec le Web.</string>
+    <string name="s1_open_profile">Consulter et modifier mon profil</string>
+    <string name="s1_cached_summary">Résumé local à actualiser : %1$s %2$s. Une session serveur valide reste nécessaire.</string>
+    <string name="s1_recovery_help">Saisis ton adresse pour recevoir un lien de récupération. Le lien ouvre Android si la redirection mobile est autorisée dans Supabase.</string>
+    <string name="s1_send_recovery">Envoyer le lien de récupération</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fc_violet">#7138D8</color>
+    <color name="fc_violet_dark">#5520BD</color>
+    <color name="fc_coral">#FF7954</color>
+    <color name="fc_pink">#FFB9D6</color>
+    <color name="fc_cream">#FFF6EF</color>
+    <color name="fc_plum">#251532</color>
+    <color name="fc_background">#FFFAFA</color>
+    <color name="fc_white">#FFFFFF</color>
+    <color name="fc_muted">#756B7C</color>
+    <color name="fc_line">#EADFE9</color>
+    <color name="fc_lilac">#F1E5FF</color>
+    <color name="fc_error">#A52640</color>
+    <color name="deep_night">@color/fc_plum</color>
+    <color name="midnight">@color/fc_violet_dark</color>
+    <color name="slate_card">@color/fc_white</color>
+    <color name="twilight">@color/fc_violet</color>
+    <color name="champagne_gold">@color/fc_coral</color>
+    <color name="ink_blue">@color/fc_plum</color>
+    <color name="taupe">@color/fc_muted</color>
+    <color name="warm_sand">@color/fc_cream</color>
+    <color name="mist">@color/fc_line</color>
+    <color name="frost">@color/fc_white</color>
+</resources>

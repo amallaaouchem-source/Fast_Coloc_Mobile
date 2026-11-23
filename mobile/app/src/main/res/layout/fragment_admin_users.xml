@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical" android:padding="24dp" xmlns:app="http://schemas.android.com/apk/res-auto" android:background="@color/fc_background">
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/fc_gestion_des_utilisateurs" android:textAppearance="@style/TextAppearance.FastColoc.Title" android:breakStrategy="balanced" android:textStyle="bold" android:textColor="@color/fc_plum" />
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="4dp" android:text="@string/fc_consultez_les_comptes_modifiez_leurs_coordonnees_ou_gerez_leur_a" android:textAppearance="?attr/textAppearanceBodyMedium" android:textColor="@color/fc_muted" />
+    <TextView android:id="@+id/tvNoAdminUsers" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="28dp" android:gravity="center" android:text="@string/fc_aucun_utilisateur_inscrit_pour_le_moment" android:visibility="gone" android:textColor="@color/fc_muted" />
+    <androidx.recyclerview.widget.RecyclerView android:id="@+id/rvAdminUsers" android:layout_width="match_parent" android:layout_height="0dp" android:layout_marginTop="12dp" android:layout_weight="1" android:clipToPadding="false" android:paddingBottom="16dp" />
+</LinearLayout>

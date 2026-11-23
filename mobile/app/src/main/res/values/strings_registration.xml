@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="back">Retour</string>
+    <string name="next">Suivant</string>
+    <string name="finish">Terminer</string>
+    <string name="step_counter">Étape %1$d/5</string>
+    <string name="reg1_title">Tes infos, ton départ ✨</string>
+    <string name="last_name">Nom</string>
+    <string name="first_name">Prénom</string>
+    <string name="email">E-mail</string>
+    <string name="password">Mot de passe</string>
+    <string name="confirm_password">Confirmer le mot de passe</string>
+    <string name="i_am">Je suis :</string>
+    <string name="role_offerer">Offreur</string>
+    <string name="role_seeker">Demandeur</string>
+    <string name="reg2_title">Où es-tu actuellement ? 📍</string>
+    <string name="governorate">Gouvernorat</string>
+    <string name="city">Ville</string>
+    <string name="preferred_zone">Zone préférée</string>
+    <string name="reg3_title">Parlons un peu de toi 💜</string>
+    <string name="birth_date">Date de naissance</string>
+    <string name="status">Statut</string>
+    <string name="status_student">Étudiant</string>
+    <string name="status_worker">Travailleur</string>
+    <string name="gender_optional">Genre (facultatif)</string>
+    <string name="gender_female">Femme</string>
+    <string name="gender_male">Homme</string>
+    <string name="gender_none">Ne pas préciser</string>
+    <string name="preferences">Préférences</string>
+    <string name="pref_smoker">Fumeur</string>
+    <string name="pref_pets">Animaux acceptés</string>
+    <string name="reg4_title">Comment te contacter ? 💬</string>
+    <string name="phone">Téléphone</string>
+    <string name="preferred_contact">Contact préféré</string>
+    <string name="phone_hint">Le numéro sert aux notifications SMS (modifiable plus tard).</string>
+    <string name="reg5_title">Montre ton meilleur sourire 📸</string>
+    <string name="add_photo">Ajouter une photo</string>
+    <string name="photo_description">Description de la photo</string>
+    <string name="photo_limits">5 photos max · 5 Mo par photo</string>
+    <string name="remove_photo">Supprimer la photo</string>
+    <string name="success_title">Compte créé !</string>
+    <string name="success_text">Bienvenue sur FastColoc. Commencez votre recherche.</string>
+    <string name="success_cta">Accéder à l’application</string>
+</resources>

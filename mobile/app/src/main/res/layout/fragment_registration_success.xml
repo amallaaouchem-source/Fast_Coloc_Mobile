@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent" android:layout_height="match_parent" android:gravity="center_horizontal" android:orientation="vertical" android:padding="24dp" android:background="@color/fc_background">
+    <include layout="@layout/include_fastcoloc_brand" />
+    <Space android:layout_width="0dp" android:layout_height="0dp" android:layout_weight="1" />
+    <ImageView android:layout_width="144dp" android:layout_height="144dp" android:background="@drawable/bg_fc_illustration" android:padding="24dp" android:src="@drawable/ic_fastcoloc_symbol" android:importantForAccessibility="no" />
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="24dp" android:text="@string/success_title" android:textAppearance="@style/TextAppearance.FastColoc.Title" android:breakStrategy="balanced" android:textStyle="bold" android:textColor="@color/fc_plum" android:gravity="center" />
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="8dp" android:gravity="center" android:text="@string/success_text" android:textColor="?attr/colorOnSurfaceVariant" />
+    <Space android:layout_width="0dp" android:layout_height="0dp" android:layout_weight="1" />
+    <com.google.android.material.button.MaterialButton android:id="@+id/btnGoToApp" android:layout_width="match_parent" android:layout_height="56dp" android:text="@string/success_cta" app:cornerRadius="12dp" style="@style/Widget.FastColoc.Button" android:minHeight="48dp" android:textAllCaps="false" />
+</LinearLayout>

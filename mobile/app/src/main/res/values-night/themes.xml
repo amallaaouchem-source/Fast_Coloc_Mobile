@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <style name="Base.Theme.FastColloc" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/fc_violet</item>
+        <item name="colorOnPrimary">@color/fc_white</item>
+        <item name="colorPrimaryContainer">@color/fc_lilac</item>
+        <item name="colorOnPrimaryContainer">@color/fc_violet_dark</item>
+        <item name="colorSecondary">@color/fc_coral</item>
+        <item name="colorOnSecondary">@color/fc_plum</item>
+        <item name="colorSecondaryContainer">@color/fc_pink</item>
+        <item name="colorOnSecondaryContainer">@color/fc_plum</item>
+        <item name="colorSurface">@color/fc_white</item>
+        <item name="colorOnSurface">@color/fc_plum</item>
+        <item name="colorOnSurfaceVariant">@color/fc_muted</item>
+        <item name="colorOutline">@color/fc_line</item>
+        <item name="colorError">@color/fc_error</item>
+        <item name="android:colorBackground">@color/fc_background</item>
+        <item name="android:windowBackground">@color/fc_background</item>
+        <item name="android:statusBarColor">@color/fc_background</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:navigationBarColor">@color/fc_plum</item>
+        <item name="android:fontFamily">@font/dm_sans</item>
+        <item name="android:textColorPrimary">@color/fc_plum</item>
+        <item name="android:textColorSecondary">@color/fc_muted</item>
+        <item name="materialButtonStyle">@style/Widget.FastColoc.Button.Coral</item>
+        <item name="materialButtonOutlinedStyle">@style/Widget.FastColoc.Button.Outlined</item>
+        <item name="textInputStyle">@style/Widget.FastColoc.Field</item>
+        <item name="chipStyle">@style/Widget.FastColoc.Chip</item>
+        <item name="textAppearanceBodyMedium">@style/TextAppearance.FastColoc.Body</item>
+        <item name="textAppearanceHeadlineSmall">@style/TextAppearance.FastColoc.Title</item>
+        <item name="textAppearanceHeadlineMedium">@style/TextAppearance.FastColoc.Title</item>
+    <item name="fontFamily">@font/dm_sans</item></style>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical" android:padding="16dp">
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/tvTitle" android:text="@string/s2_catalog_title" android:textAppearance="@style/TextAppearance.FastColoc.Title" android:layout_marginTop="12dp"/>
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/tvState" android:text="@string/s2_tvState" android:textAppearance="@style/TextAppearance.FastColoc.Body" android:layout_marginTop="12dp"/>
+    <ProgressBar android:id="@+id/listingProgress" android:layout_width="40dp" android:layout_height="40dp" android:layout_gravity="center_horizontal" android:visibility="gone"/>
+    <com.google.android.material.button.MaterialButton android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/btnNewListing" android:text="@string/s2_btnNewListing" android:minHeight="48dp" android:layout_marginTop="8dp" style="@style/Widget.FastColoc.Button.Outlined"/>
+    <androidx.recyclerview.widget.RecyclerView android:id="@+id/rvListings" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1" android:clipToPadding="false"/>
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal">
+        <com.google.android.material.button.MaterialButton android:id="@+id/btnPrevious" android:layout_width="0dp" android:layout_weight="1" android:layout_height="wrap_content" android:text="@string/s2_previous"/>
+        <com.google.android.material.button.MaterialButton android:id="@+id/btnNextPage" android:layout_width="0dp" android:layout_weight="1" android:layout_height="wrap_content" android:text="@string/s2_next"/>
+    </LinearLayout>
+</LinearLayout>

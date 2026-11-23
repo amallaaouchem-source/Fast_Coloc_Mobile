@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:padding="24dp" android:background="@drawable/bg_fc_hero" android:layout_margin="12dp">
+    <ImageView android:layout_width="56dp" android:layout_height="56dp" android:src="@drawable/ic_fastcoloc_symbol" android:importantForAccessibility="no" />
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/fc_fastcoloc" android:textAppearance="@style/TextAppearance.FastColoc.Brand" android:textColor="@color/fc_white" android:layout_marginTop="16dp" />
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/fc_la_coloc_c_est_mieux_ensemble" android:textColor="@color/fc_cream" android:textSize="14sp" android:layout_marginTop="8dp" />
+</LinearLayout>

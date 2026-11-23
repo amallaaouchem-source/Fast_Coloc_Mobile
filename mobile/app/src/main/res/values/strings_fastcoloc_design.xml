@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fc_fastcoloc">fastcoloc.</string>
+    <string name="fc_la_coloc_c_est_mieux_ensemble">La coloc, c’est mieux ensemble.</string>
+    <string name="fc_ton_aventure_commence_ici">Ton aventure commence ici ✦</string>
+    <string name="fc_bienvenue_sur_fastcoloc">Bienvenue sur FastColoc !</string>
+    <string name="fc_votre_espace_utilisateur_est_pret">Votre espace utilisateur est prêt.</string>
+    <string name="fc_gestion_des_utilisateurs">Gestion des utilisateurs</string>
+    <string name="fc_consultez_les_comptes_modifiez_leurs_coordonnees_ou_gerez_leur_a">Consultez les comptes, modifiez leurs coordonnées ou gérez leur accès.</string>
+    <string name="fc_aucun_utilisateur_inscrit_pour_le_moment">Aucun utilisateur inscrit pour le moment.</string>
+    <string name="fc_modifier_les_coordonnees">Modifier les coordonnées</string>
+    <string name="fc_prenom">Prénom</string>
+    <string name="fc_nom">Nom</string>
+    <string name="fc_adresse_e_mail">Adresse e-mail</string>
+    <string name="fc_telephone_8_chiffres">Téléphone (8 chiffres)</string>
+    <string name="fc_enregistrer_les_modifications">Enregistrer les modifications</string>
+    <string name="fc_annuler">Annuler</string>
+    <string name="fc_content_de_te_revoir">Content de te revoir !</string>
+    <string name="fc_connecte_toi_a_ta_communaute">Connecte-toi à ta communauté.</string>
+    <string name="fc_se_connecter">Se connecter</string>
+    <string name="fc_nouveau_ici">Nouveau ici ?</string>
+    <string name="fc_creer_un_compte">Créer un compte</string>
+    <string name="fc_1_5">1/5</string>
+    <string name="fc_mon_inscription">MON INSCRIPTION</string>
+    <string name="fc_etape_1_5_informations_generales">Étape 1 / 5 · Informations générales</string>
+    <string name="fc_2_5">2/5</string>
+    <string name="fc_etape_2_5_informations_geographiques">Étape 2 / 5 · Informations géographiques</string>
+    <string name="fc_3_5">3/5</string>
+    <string name="fc_etape_3_5_informations_personnelles">Étape 3 / 5 · Informations personnelles</string>
+    <string name="fc_4_5">4/5</string>
+    <string name="fc_etape_4_5_coordonnees_et_disponibilites">Étape 4 / 5 · Coordonnées et disponibilités</string>
+    <string name="fc_5_5">5/5</string>
+    <string name="fc_etape_5_5_photos_et_finalisation">Étape 5 / 5 · Photos et finalisation</string>
+    <string name="fc_ton_sourire_fait_la_difference">Ton sourire fait la différence</string>
+    <string name="fc_fast">fast</string>
+    <string name="fc_coloc">coloc.</string>
+    <string name="fc_modifier">Modifier</string>
+    <string name="fc_bloquer">Bloquer</string>
+    <string name="fc_supprimer">Supprimer</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:id="@+id/drawerMain" android:checkableBehavior="single">
+<item android:id="@id/homeFragment" android:title="Accueil" android:icon="@drawable/ic_fc_home" />
+<item android:id="@id/listingCatalogFragment" android:title="Explorer" android:icon="@drawable/ic_fc_search" />
+<item android:id="@+id/favoritesFragment" android:title="Mes favoris" android:icon="@drawable/ic_fc_heart" />
+<item android:id="@+id/mineListingsFragment" android:title="Mes annonces" android:icon="@drawable/ic_fc_list" />
+</group>
+<group android:id="@+id/drawerPublish"><item android:id="@id/listingEditorFragment" android:title="Publier une annonce" android:icon="@drawable/ic_fc_add" /></group>
+<item android:title="Mon espace"><menu><item android:id="@id/profileFragment" android:title="Mon profil et préférences" android:icon="@drawable/ic_fc_person" android:checkable="true" /></menu></item>
+<group android:id="@+id/drawerAccount"><item android:id="@+id/menu_logout" android:title="Déconnexion" android:icon="@drawable/ic_fc_logout" /></group>
+</menu>

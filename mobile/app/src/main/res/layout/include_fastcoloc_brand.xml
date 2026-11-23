@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="wrap_content" android:layout_height="48dp" android:gravity="center_vertical" android:orientation="horizontal" android:importantForAccessibility="yes" android:contentDescription="@string/app_name">
+    <ImageView android:layout_width="34dp" android:layout_height="34dp" android:layout_marginEnd="9dp" android:src="@drawable/ic_fastcoloc_symbol" android:importantForAccessibility="no" />
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/fc_fast" android:textAppearance="@style/TextAppearance.FastColoc.Brand" android:importantForAccessibility="no" />
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/fc_coloc" android:textAppearance="@style/TextAppearance.FastColoc.Brand" android:textColor="@color/fc_coral" android:importantForAccessibility="no" />
+</LinearLayout>
